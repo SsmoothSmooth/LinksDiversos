@@ -4,8 +4,40 @@
     box-sizing: border-box;
 }
 
+/* menu de navegação */
 
 
 
+/* Informações do usuário*/
 
+.info {
+    width: 100%;
+    height: 100%;
+    background-color: blanchedalmond;
+}
+.info h1 {
+    text-align: center;
+}
 
+#rel{
+    text-align: center;
+    color: #0f0;
+    font-weight: bold;
+    font-size: 30px;
+    width: 130px;
+    background-color: #000;
+}
+
+/* sessão dos links*/
+main {
+    width: 100%;
+    height: 100%;
+    
+    background-color: darkgrey;
+}
+
+main h3 {
+    text-align: center;
+}
+
+/* rodapé*/
